@@ -1,0 +1,6 @@
+*.pyc
+gutendex/.env
+venv
+check.txt
+readme.md
+installation-guide.md
